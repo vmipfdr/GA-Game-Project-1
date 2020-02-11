@@ -2,6 +2,7 @@ body {
 	display: flex;
 	flex-direction: column;
 	align-items: stretch;
+	justify-content: center;
 	width: auto;
 	background-color: grey;
 	background-image: url('BMW E30 M3 Rally.jpg');
@@ -13,53 +14,47 @@ body {
 /*image source https://www.pinterest.com/pin/146367056624341537/*/
 
 .header {
-	height: 80px;
+	height: 40px;
 	text-align: center;
 	text-overflow: wrap;
+	height: 10vh;
 	background-color: rgba(238, 210, 175, 0.6);
 	border: 2px solid black;
 	border-radius: 20px;
-    margin: 0 0 10px 0;
+    margin: 0 0 20px 0;
     box-shadow: 20px 20px 32px -12px rgba(0,0,0,0.95);
 }
 
 .content {
-	height: 70vh;
-	width: auto;
+	width: 80%;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-	background-color: rgba(210, 78, 80, 0.6);
+	background-color: rgba(238, 210, 175, 0.6);
 	border: 2px solid black;
 	border-radius: 20px;
-    margin: 5vh 20vh;
-    padding: 5vh 5vh 1vh 5vh;
+    margin: 0 0 20px 0;
+    padding: 20px 10px 10px 10px;
 }
 
-/*.instructions {
-	height: 5vh;
+.instructions {
+	height: 10vh;
 	width: 70%;
 	margin: 10px;
-	padding: 0 0 5vh 0;
+	padding: 10px;
 	text-align: center;
 	border: 2px solid black;
-}*/
+}
 
 .board {
-	height: 70vh;
-	width: 88%;
 	border: 2px solid black;
-	border-radius: 20px;
-	background-color: rgba(240, 240, 240, 0.6);
-    margin: 1vh;
-    padding: 2vh;
 }
 
 .reset {
 	height: 25px;
 	width: 70px;
-	margin: 1vh;
-	padding: 2vh;
+	margin: 10px 20px 20px;
+	padding: 10px;
 	text-align: center;
 	text-decoration: none;
 }

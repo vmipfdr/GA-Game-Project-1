@@ -3,21 +3,34 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Matt's Game</title>
+	<title>Matt's Trivia Game of Automotive History</title>
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="style.css">
 </head>
 <body>
 	<header class="header">
-    	<h1 class="title"></h1>
+    	<h1 class="title">Matt's Trivia Game of Automotive & Rallye History</h1>
     	<p></p>
 	</header>
 	<div class="content">
-		<div class="instructions">
-			<h3 class="text"></h3>
-		</div>
+<!-- 		<div class="instructions">
+			<h3 class="text">As questions display, select the best of the multiple choice options to answer that question.  As you guess your score will printed.  Good Luck!</h3>
+		</div> -->
 		<div class="board">
+			<div class="toggle">
+				<div class="Rallye"></div>
+				<div class="Automotive"></div>
+			</div>
+			<div class="question">
+			</div>
+			<div class="answergrid">
+				<div class="answers" id="answer1"></div>
+				<div class="answers" id="answer2"></div>
+				<div class="answers" id="answer3"></div>
+				<div class="answers" id="answer4"></div>
+			</div>
+			<div class="score"></div>
 		</div>
 		<div class="reset">
 			<button onClick="window.location.reload();">Reset</button>
