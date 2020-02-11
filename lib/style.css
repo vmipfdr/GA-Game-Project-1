@@ -1,0 +1,39 @@
+body {
+	display: flex;
+	flex-direction: column;
+	align-items: stretch;
+	width: auto;
+	background-color: grey;
+}
+
+.header {
+	height: 20%;
+	text-align: center;
+}
+
+.content {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.instructions {
+	height: 10vh;
+	width: 70%;
+	margin: 10px;
+	padding: 10px;
+	text-align: center;
+}
+
+.board {
+}
+
+.reset {
+	height: 25px;
+	width: 70px;
+	margin: 10px 20px 20px;
+	padding: 10px;
+	text-align: center;
+	text-decoration: none;
+}
+
