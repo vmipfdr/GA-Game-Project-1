@@ -4,9 +4,9 @@ body {
 	align-items: stretch;
 	width: auto;
 	background-color: grey;
-	background-image: url('BMW E30 M3 Rally.jpg');
+	background-image: url('bmw_m3_group_a_11.jpg');
     background-repeat: no-repeat;
-    background-position: : center center;
+    background-position: center;
     background-attachment: fixed;
     background-size: cover;
 }
@@ -16,7 +16,7 @@ body {
 	height: 80px;
 	text-align: center;
 	text-overflow: wrap;
-	background-color: rgba(238, 210, 175, 0.6);
+	background-color: rgba(255, 255, 255, 0.3);
 	border: 2px solid black;
 	border-radius: 20px;
     margin: 0 0 10px 0;
@@ -29,30 +29,93 @@ body {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-	background-color: rgba(210, 78, 80, 0.6);
+	background-color: rgba(78, 189, 253, 0.3);
 	border: 2px solid black;
 	border-radius: 20px;
     margin: 5vh 20vh;
-    padding: 5vh 5vh 1vh 5vh;
+    padding: 3vh 3vh 1vh 3vh;
+    box-shadow: 20px 20px 32px -12px rgba(0,0,0,0.95);
 }
-
-/*.instructions {
-	height: 5vh;
-	width: 70%;
-	margin: 10px;
-	padding: 0 0 5vh 0;
-	text-align: center;
-	border: 2px solid black;
-}*/
 
 .board {
 	height: 70vh;
 	width: 88%;
 	border: 2px solid black;
 	border-radius: 20px;
-	background-color: rgba(240, 240, 240, 0.6);
+	background-color: rgba(55, 55, 150, 0.3);
+	box-shadow: 20px 20px 32px -12px rgba(0,0,0,0.95);
+    margin: 1vh;
+    padding: 1vh 2vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.text {
+	height: 5vh;
+	border: 2px solid white;
+	border-radius: 10px;
+	background-color: rgba(240, 53, 0, 0.3);
+    box-shadow: 20px 20px 32px -12px rgba(0,0,0,0.95);
     margin: 1vh;
     padding: 2vh;
+}
+
+.answer {
+/*	display: none;*/
+}
+
+.answergrid {
+	display: grid;
+	border: 2px solid black;
+	grid-template-columns: 1fr 1fr;
+	grid-template-rows: 1fr 1fr;
+	height: 25vh;
+	widows: 40%;
+}
+
+#answer1 {
+	grid-column-start: 1 / span 1;
+	grid-row-start: 1 / span 1;
+	box-shadow: 20px 20px 32px -12px rgba(0,0,0,0.95);
+}
+
+#answer1:hover {
+	background-color: rgba(255, 255, 255, 0.8);
+	box-shadow: 30px 30px 42px -22px rgba(0,0,0,1);
+}
+
+#answer2 {
+	grid-column-start: 2 / span 1;
+	grid-row-start: 1 / span 1;
+    box-shadow: 20px 20px 32px -12px rgba(0,0,0,0.95);
+}
+
+#answer2:hover {
+	background-color: rgba(255, 255, 255, 0.8);
+	box-shadow: 30px 30px 42px -22px rgba(0,0,0,1);
+}
+
+#answer3 {
+	grid-column-start: 1 / span 1;
+	grid-row-start: 2 / span 1;
+    box-shadow: 20px 20px 32px -12px rgba(0,0,0,0.95);
+}
+
+#answer3:hover {
+	background-color: rgba(255, 255, 255, 0.8);
+	box-shadow: 30px 30px 42px -22px rgba(0,0,0,1);
+}
+
+#answer4 {
+	grid-column-start: 2 / span 1;
+	grid-row-start: 2 / span 1;
+    box-shadow: 20px 20px 32px -12px rgba(0,0,0,0.95);
+}
+
+#answer4:hover {
+	background-color: rgba(255, 255, 255, 0.8);
+	box-shadow: 30px 30px 42px -22px rgba(0,0,0,1);
 }
 
 .reset {

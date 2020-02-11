@@ -31,26 +31,26 @@ Group S
 True
 False
 
-6. Who was the first English driver to win the driver's title?
+<!-- 6. Who was the first English driver to win the driver's title?
 
 Tony Pond
 Colin McRae
-Richard Burns
-Jimmy McRae
+Richard Burns -->
+<!-- Jimmy McRae -->
 
-7. The first official Lancia Group B rally car was the Lancia Rally -____ ?
+<!-- 7. The first official Lancia Group B rally car was the Lancia Rally -____ ?
 
 Stratos
 S4
 037
-Integrale
+Integrale -->
 
-8. The famous Safari Rally was held in which country during the 1990s?
+<!-- 8. The famous Safari Rally was held in which country during the 1990s?
 
 South Africa
 Morocco
 Mexico
-Kenya
+Kenya -->
 
 9. Which two tyre companies were supplying the world championship teams in 2003?
 
@@ -79,11 +79,11 @@ Answers:
 
 5. TRUE.  2 liter turbo charged engines (there's an FIA 1.7 engine displacement multiplication factor for turbo charged cars) using a 34mm turbo restrictor. WRC class cars where introduced in 1997 following a FIA decision and WRC class cars have to comply to the same rules as Group A, apart from few rules. 
 
-6. Richard Burns.  Richard Burns won in 2001 and Colin McRae who is Scottish won in 1995. Both were driving a Subaru. 
+<!-- 6. Richard Burns.  Richard Burns won in 2001 and Colin McRae who is Scottish won in 1995. Both were driving a Subaru.  -->
 
-7. 037 Lancia Rally 037 was introduced in 1983.
+<!-- 7. 037 Lancia Rally 037 was introduced in 1983. -->
 
-8. Kenya.  The Safari Rally of Kenya. The event was the longest in the championship. The shorter Anatolian Turkey Rally replaced the Safari Rally in the 2003 championship.
+<!-- 8. Kenya.  The Safari Rally of Kenya. The event was the longest in the championship. The shorter Anatolian Turkey Rally replaced the Safari Rally in the 2003 championship. -->
 
 9. Michelin & Pirelli  Pirelli only supplied to the Subaru team. In 2002 Pirelli supplied also to the Ford team. 
 
