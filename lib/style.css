@@ -74,46 +74,46 @@ body {
 	widows: 40%;
 }
 
-#answer1 {
+#buttonOne {
 	grid-column-start: 1 / span 1;
 	grid-row-start: 1 / span 1;
 	box-shadow: 20px 20px 32px -12px rgba(0,0,0,0.95);
 }
 
-#answer1:hover {
+#buttonOne:hover {
 	background-color: rgba(255, 255, 255, 0.8);
 	box-shadow: 30px 30px 42px -22px rgba(0,0,0,1);
 }
 
-#answer2 {
+#buttonTwo {
 	grid-column-start: 2 / span 1;
 	grid-row-start: 1 / span 1;
     box-shadow: 20px 20px 32px -12px rgba(0,0,0,0.95);
 }
 
-#answer2:hover {
+#buttonTwo:hover {
 	background-color: rgba(255, 255, 255, 0.8);
 	box-shadow: 30px 30px 42px -22px rgba(0,0,0,1);
 }
 
-#answer3 {
+#buttonThree {
 	grid-column-start: 1 / span 1;
 	grid-row-start: 2 / span 1;
     box-shadow: 20px 20px 32px -12px rgba(0,0,0,0.95);
 }
 
-#answer3:hover {
+#buttonThree:hover {
 	background-color: rgba(255, 255, 255, 0.8);
 	box-shadow: 30px 30px 42px -22px rgba(0,0,0,1);
 }
 
-#answer4 {
+#buttonFour {
 	grid-column-start: 2 / span 1;
 	grid-row-start: 2 / span 1;
     box-shadow: 20px 20px 32px -12px rgba(0,0,0,0.95);
 }
 
-#answer4:hover {
+#buttonFour:hover {
 	background-color: rgba(255, 255, 255, 0.8);
 	box-shadow: 30px 30px 42px -22px rgba(0,0,0,1);
 }
