@@ -2,6 +2,7 @@ body {
 	display: flex;
 	flex-direction: column;
 	align-items: stretch;
+	align-items: center;
 	width: auto;
 	background-color: grey;
 	background-image: url('bmw_m3_group_a_11.jpg');
@@ -14,6 +15,7 @@ body {
 
 .header {
 	height: 80px;
+	width: 450px;
 	text-align: center;
 	text-overflow: wrap;
 	background-color: rgba(255, 255, 255, 0.3);
@@ -25,7 +27,8 @@ body {
 
 .content {
 	height: 70vh;
-	width: auto;
+	width: 1000px;
+	min-width: 700px;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
@@ -52,13 +55,13 @@ body {
 }
 
 .text {
-	height: 5vh;
+	height: 8vh;
 	border: 2px solid black;
 	border-radius: 10px;
 	background-color: rgba(240, 240, 240, 0.5);
     box-shadow: 20px 20px 32px -12px rgba(0,0,0,0.95);
     margin: 1vh;
-    padding: 2vh;
+    padding: 1vh;
 }
 
 .answer {
@@ -70,50 +73,50 @@ body {
 	/*border: 2px solid black;*/
 	grid-template-columns: 1fr 1fr;
 	grid-template-rows: 1fr 1fr;
-	height: 25vh;
+	height: 30vh;
 	widows: 40%;
 }
 
-#buttonOne {
+.buttonOne {
 	grid-column-start: 1 / span 1;
 	grid-row-start: 1 / span 1;
 	box-shadow: 20px 20px 32px -12px rgba(0,0,0,0.95);
 }
 
-#buttonOne:hover {
+.buttonOne:hover {
 	background-color: rgba(255, 255, 255, 0.8);
 	box-shadow: 30px 30px 42px -22px rgba(0,0,0,1);
 }
 
-#buttonTwo {
+.buttonTwo {
 	grid-column-start: 2 / span 1;
 	grid-row-start: 1 / span 1;
     box-shadow: 20px 20px 32px -12px rgba(0,0,0,0.95);
 }
 
-#buttonTwo:hover {
+.buttonTwo:hover {
 	background-color: rgba(255, 255, 255, 0.8);
 	box-shadow: 30px 30px 42px -22px rgba(0,0,0,1);
 }
 
-#buttonThree {
+.buttonThree {
 	grid-column-start: 1 / span 1;
 	grid-row-start: 2 / span 1;
     box-shadow: 20px 20px 32px -12px rgba(0,0,0,0.95);
 }
 
-#buttonThree:hover {
+.buttonThree:hover {
 	background-color: rgba(255, 255, 255, 0.8);
 	box-shadow: 30px 30px 42px -22px rgba(0,0,0,1);
 }
 
-#buttonFour {
+.buttonFour {
 	grid-column-start: 2 / span 1;
 	grid-row-start: 2 / span 1;
     box-shadow: 20px 20px 32px -12px rgba(0,0,0,0.95);
 }
 
-#buttonFour:hover {
+.buttonFour:hover {
 	background-color: rgba(255, 255, 255, 0.8);
 	box-shadow: 30px 30px 42px -22px rgba(0,0,0,1);
 }
