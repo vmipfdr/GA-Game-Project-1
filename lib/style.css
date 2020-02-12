@@ -4,6 +4,7 @@ body {
 	align-items: stretch;
 	align-items: center;
 	width: auto;
+	margin: 10px 0px 0px 0px;
 	background-color: grey;
 	background-image: url('bmw_m3_group_a_11.jpg');
     background-repeat: no-repeat;
@@ -149,3 +150,10 @@ body {
 	text-decoration: none;
 }
 
+.footer {
+	height: 5vh;
+	width: 100%;
+	margin: 0px;
+	background-color: black;
+	background-image: 
+}
