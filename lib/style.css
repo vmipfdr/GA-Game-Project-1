@@ -41,7 +41,7 @@ body {
 }
 
 .board {
-	height: 70vh;
+	height: 35vh;
 	width: 88%;
 	border: 2px solid black;
 	border-radius: 20px;
@@ -132,7 +132,10 @@ body {
 }
 
 .answerText {
-	height: 20vh;
+	height: 0vh;
+	border: 0px black;
+	background-color: rgba(255, 255, 255, 0);
+	box-shadow: 20px 20px 32px -12px rgba(0,0,0,0.95);
 }
 
 .reset {
