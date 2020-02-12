@@ -30,7 +30,7 @@ http://www.carponents.com/content/fun-and-fascinating-car-trivia-for-the-automot
 	C. 1967 Chevrolet Camaro
 	D. 1964 Ford Mustang
  
-6.  What is the worlds largest automotive company? 
+6.  As of 2015, what is the worlds largest automotive company? 
 	A. Volkswagen Group
 	B. General Motors
 	C. Ford Motors
@@ -132,7 +132,7 @@ ANSWERS:
  
 5. Index 0. Although there had been powerful cars built up to this point, it is the 1964 Pontiac GTO, which is recognized as the first true Muscle car. With an advertising and marketing campaign stating the facts, the midsize Pontiac Tempest/LeMans could be optioned with the GTO package, featuring a 389ci Tri-power (3-dual carburetors) engine, dual exhaust and hood scoops. 
  
-6. Index 3.  Toyota is the worlds largest automaker followed by General Motors who just recently ranked ahead of Volkswagen Group.  The Toyota Corolla remains the best selling car in the world with 1.02 million units sold.  
+6. Index 3.  As of 2015, Toyota is the worlds largest automaker followed by General Motors who just recently ranked ahead of Volkswagen Group.  The Toyota Corolla remains the best selling car in the world with 1.02 million units sold.  
  
 7.  Index 3.  Gulf opened up the first station in Pittsburg, PA in 1913.  
  
@@ -148,7 +148,7 @@ ANSWERS:
  
 13. Index 3.  Oil Shortage.  The National Maximum Speed Law (NMSL) in the United States was a provision of the 1974 Emergency Highway Energy Conservation Act that prohibited speed limits higher than 55 miles per hour (90 km/h). It was drafted in response to oil price spikes and supply disruptions during the 1973 oil crisis.  While officials hoped gasoline consumption would fall by 2.2%, actual savings are estimated at between 0.5% and 1%.
  
-14. Index 3.  037 Lancia Rally 037 was introduced in 1983.
+14. Index 3.  037 Lancia Rally 037 or Lancia-Abarth #037 from its Abarth project code SE037) was introduced in 1983. A mid-engine sports car and rally car built by Lancia in the early 1980s that competed in the FIA Group B World Rally Championship. It was the last rear-wheel drive car to win the WRC. 
  
 15. Index 3.  In November of 1982, the first American-produced Honda Accord rolled off the assembly line at the Marysville Auto Plant in Ohio, making it the first Japanese car to be produced in the United States. The Accord would prove quite popular. In its first year of production, it became the best-selling Japanese car in the United States — a title which it would hold for the next 15 years. 
  
@@ -158,7 +158,7 @@ ANSWERS:
  
 18. Index 2.  Nikola Tesla is best known for his contributions to the design of the modern alternating current (AC) electricity supply system.
  
-19. Index 1.  This car is why you care about BMW Motorsport. When the original M3 raced between 1987-1993, it dominated. Multiple Touring Car championships in countries all over Europe, multiple 24 Hours of Nurburgring and Spa wins, and even a couple rally victories 
+19. Index 1.  This car is why you care about BMW Motorsport. When the original M3 raced between 1987-1993, it dominated circuits. Multiple Touring Car championships in countries all over Europe, multiple 24 Hours of Nurburgring and Spa wins, and even a couple rally victories.
  
 20. Index 2. Volkswagen Group sells passenger cars under the Audi, Bentley, the Audi, Bentley, Bugatti, Lamborghini, Porsche, SEAT, Škodaand Volkswagen marques; motorcycles under the Ducati brand; and commercial vehicles under the MAN, Scania,Neoplan and Volkswagen Commercial Vehicles marques.  It is divided into two primary divisions, the Automotive Division and the Financial Services Division, and has approximately 340 subsidiary companies.
 
