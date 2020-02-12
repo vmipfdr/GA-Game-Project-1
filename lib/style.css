@@ -55,7 +55,7 @@ body {
 	height: 5vh;
 	border: 2px solid black;
 	border-radius: 10px;
-	/*background-color: rgba(240, 53, 0, 0.3);*/
+	background-color: rgba(240, 240, 240, 0.5);
     box-shadow: 20px 20px 32px -12px rgba(0,0,0,0.95);
     margin: 1vh;
     padding: 2vh;

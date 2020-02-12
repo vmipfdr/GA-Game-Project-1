@@ -144,7 +144,7 @@ ANSWERS:
  
 11.  Index 3.  Tesla was founded in July 2003, by engineers Martin Eberhard and Marc Tarpenning. Elon Musk, J. B. Straubel and Ian Wright joined the company early on and were retroactively allowed to call themselves co-founders.
  
-12.  Index 0.   In addition to his work onscreen. Steve McQueen was also a star in the racing world. While he steered a Ford Mustang through the streets of San Francisco in "Bullitt" and rode a motorcycle in "The Great Escape," McQueen chose a souped-up dune buggy for his 1969 Baja 1000 debut. His Baja Boot made it almost to the end of the race before the transmission blew, forcing him to withdraw.   
+12.  Index 0.   In addition to his work onscreen. Steve McQueen was also a star in the racing world. While he steered a Ford Mustang through the streets of San Francisco in Bullitt and rode a motorcycle in The Great Escape, McQueen chose a souped-up dune buggy for his 1969 Baja 1000 debut. His Baja Boot made it almost to the end of the race before the transmission blew, forcing him to withdraw.   
  
 13. Index 3.  Oil Shortage.  The National Maximum Speed Law (NMSL) in the United States was a provision of the 1974 Emergency Highway Energy Conservation Act that prohibited speed limits higher than 55 miles per hour (90 km/h). It was drafted in response to oil price spikes and supply disruptions during the 1973 oil crisis.  While officials hoped gasoline consumption would fall by 2.2%, actual savings are estimated at between 0.5% and 1%.
  
