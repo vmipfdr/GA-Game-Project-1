@@ -141,14 +141,29 @@ body {
 	box-shadow: 20px 20px 32px -12px rgba(0,0,0,0.95);*/
 }
 
-.reset {
+.admin {
+	height: auto;
+	width: auto;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	background-color: rgba(255, 255, 225, 0.2);
+	border: 2px solid black;
+	border-radius: 5px;
+    margin: 5vh 1vh;
+    padding: 1vh;
+}
+
+
+
+/*.reset {
 	height: 25px;
 	width: 70px;
 	margin: 1vh;
 	padding: 2vh;
 	text-align: center;
 	text-decoration: none;
-}
+}*/
 
 .footer {
 	height: 5vh;
