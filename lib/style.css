@@ -36,7 +36,7 @@ body {
 	/*background-color: rgba(78, 189, 253, 0.3);*/
 	/*border: 2px solid black;*/
 	/*border-radius: 20px;*/
-    margin: 20vh 5vh;
+    margin: 20vh 5vh 1vh 5vh;
     padding: 3vh 3vh 1vh 3vh;
     /*box-shadow: 20px 20px 32px -12px rgba(0,0,0,0.95);*/
 }
@@ -50,6 +50,44 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
+}
+
+.ending {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+}
+
+.winning {
+	display: initial;
+	border: 2px solid black;
+	border-radius: 20px;
+	height: 270px;
+	width: 480px;
+	display: none;
+}
+
+.winningText {
+	text-align: center;
+	font-size: 30px;
+	font-style: bold;
+	display: none;
+}
+
+.loosing {
+	display: initial;
+	border: 2px solid black;
+	border-radius: 20px;
+	height: 270px;
+	width: 480px;
+	display: none;
+}
+
+.loosingText {
+	text-align: center;
+	font-size: 30px;
+	font-style: bold;
+	display: none;
 }
 
 .text {
