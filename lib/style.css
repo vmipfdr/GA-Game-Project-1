@@ -229,7 +229,8 @@ body {
 	justify-content: center;
 }
 
-.contact {
+
+.contactText {
 	width: auto;
 	margin: 10px 20px 0px 0px;
 	color: rgb(127, 127, 127);
@@ -238,7 +239,8 @@ body {
 	background-size: 100%;*/
 }
 
-.github {
+
+.githubText {
 	width: auto;
 	margin: 10px 0px 0px 20px;
 	color: rgb(127, 127, 127);
