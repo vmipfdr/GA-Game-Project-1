@@ -134,10 +134,10 @@ body {
 	box-shadow: 20px 20px 32px -12px rgba(0,0,0,0.95);
 }
 
-.buttonOne:hover {
+/*.buttonOne:hover {
 	background-color: rgba(255, 255, 255, 0.8);
 	box-shadow: 30px 30px 42px -22px rgba(0,0,0,1);
-}
+}*/
 
 .buttonTwo {
 	height: 3vh;
@@ -147,10 +147,10 @@ body {
     box-shadow: 20px 20px 32px -12px rgba(0,0,0,0.95);
 }
 
-.buttonTwo:hover {
+/*.buttonTwo:hover {
 	background-color: rgba(255, 255, 255, 0.8);
 	box-shadow: 30px 30px 42px -22px rgba(0,0,0,1);
-}
+}*/
 
 .buttonThree {
 	height: 3vh;
@@ -160,10 +160,10 @@ body {
     box-shadow: 20px 20px 32px -12px rgba(0,0,0,0.95);
 }
 
-.buttonThree:hover {
+/*.buttonThree:hover {
 	background-color: rgba(255, 255, 255, 0.8);
 	box-shadow: 30px 30px 42px -22px rgba(0,0,0,1);
-}
+}*/
 
 .buttonFour {
 	height: 3vh;
@@ -173,10 +173,10 @@ body {
     box-shadow: 20px 20px 32px -12px rgba(0,0,0,0.95);
 }
 
-.buttonFour:hover {
+/*.buttonFour:hover {
 	background-color: rgba(255, 255, 255, 0.8);
 	box-shadow: 30px 30px 42px -22px rgba(0,0,0,1);
-}
+}*/
 
 .answerText {
 	display: none;
