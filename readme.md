@@ -10,7 +10,7 @@ The game I built must:
 - Render in the browser
 - Include separate HTML / CSS / JavaScript files
 - Use Javascript for DOM manipulation
-- Be deployed online, using https://vmipfdr.github.io/GA-Game-Project-1/
+- Be deployed online.  I pushed mine here: https://vmipfdr.github.io/GA-Game-Project-1/
 - Use semantic markup for HTML and CSS (adhere to best practices)
 - Show a good commit history with frequent commits
 
