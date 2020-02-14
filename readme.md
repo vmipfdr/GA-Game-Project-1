@@ -1,51 +1,27 @@
-# Project #4: Build a Game with HTML, CSS and JavaScript
+# I Built a Trivia Game
 
 I create a basic game using HTML, CSS and
-JS! I chose from the following options:
-
-- **Flash Cards**
-- **Trivia (Self-scoring)**
-- **Hangman**
-- **Tower of Hanoi**
-- **Simon**
-
-## Requirements
+JS!
 
 ### Technical Requirements
 
-The game must:
+The game I built must:
 
 - Render in the browser
 - Include separate HTML / CSS / JavaScript files
 - Use Javascript for DOM manipulation
-- Be deployed online, using [Github Project pages](https://pages.github.com)
+- Be deployed online, using https://vmipfdr.github.io/GA-Game-Project-1/
 - Use semantic markup for HTML and CSS (adhere to best practices)
 - Show a good commit history with frequent commits
 
-### Necessary Deliverables
+## Explanation of Project
 
-Your submission must include **all** of the following:
+I used Object Oriented Programming to tackle this project.  I initially used two functions, then expanded the complexity as I conquered tasks.  
 
-- A `readme.md` file, including
-  - Explanations of the technologies used, the approach taken, installation
-    instructions, unsolved problems, etc.
-  - [Follow this mini-lesson on writing documentation](https://git.generalassemb.ly/dc-wdi-fundamentals/markdown-and-documentation)
-    for your project
+I started with my array of objects.  Each object had a question, an array of possibilities, an answer, and some amplifying information.
 
-## Presentations
+I built a counter to progress through the array.  I also built a score counter that references the comparison function.
 
-We expect everyone to attend all presentations in their entirety and will
-provide breaks between each session.
+Once I completed the basic steps, I focused heavily on making the user experience as streamlined as I could in the time alloted.  I used a bunch of event listeners to adjust CSS styles.  I also spent a bunch of time focusing on building the website in a way that required less media query content. 
 
-This means **no working on your code** while others are presenting. This is your
-chance to ask others how they tackled their project.
-
-Each session of presentations will be science-fair style. Several people will
-set up at a given time, and other students will walk around asking questions
-like:
-
-- What would you do differently?
-- What are you most proud of?
-- What would you do next?
-- How did you plan your project?
-- What did you learn?
+This should also be easily scalable to an API if I need it to.
